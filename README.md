@@ -262,22 +262,6 @@ Display Results in Streamlit
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots here after deployment.
-
-| Home Page | Generated Travel Guide |
-|------------|------------------------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
-| Interactive Map | Hotel Recommendations |
-|-----------------|-----------------------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
-| Weather | Flight Information |
-|----------|-------------------|
-| *(Add Screenshot)* | *(Add Screenshot)* |
-
 ---
 
 ## 🎯 Future Enhancements
