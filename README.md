@@ -295,16 +295,13 @@ Display Results in Streamlit
 
 ---
 
-## 🤝 Contributing
+## 🌟 Highlights
 
-Contributions are welcome!
-
-If you'd like to improve the project:
-
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Open a Pull Request.
+- AI-powered personalized travel itinerary generation
+- Real-time weather, hotel, and restaurant recommendations
+- Interactive maps with Google Maps integration
+- Dynamic flight fare integration using Google Flights (SerpApi)
+- Modern Streamlit-based responsive interface
 
 ---
 
@@ -313,13 +310,10 @@ If you'd like to improve the project:
 **Madhav Karthik Nambi**
 
 - GitHub: https://github.com/madhavkn11
-- LinkedIn: *(Add your LinkedIn profile here)*
+
 
 ---
 
-## ⭐ Show Your Support
-
-If you found this project useful, consider giving it a ⭐ on GitHub.
 
 It helps others discover the project and motivates further development.
 
